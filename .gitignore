@@ -1,3 +1,6 @@
+# Perl scripts for pushing and branching
+*.pl
+
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
@@ -139,5 +142,3 @@ dmypy.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-# Perl scripts for pushing and branching
-*.pl
