@@ -140,5 +140,4 @@ dmypy.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 # Perl scripts for pushing and branching
-1_git_push.pl
-2_git_branch.pl
+*.pl
