@@ -1,4 +1,5 @@
 scratch/
+.vscode/
 
 # Perl scripts for pushing and branching
 *pl
