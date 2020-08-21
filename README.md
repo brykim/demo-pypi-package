@@ -2,7 +2,7 @@
 
 This is an example project demonstrating how to publish a python module to PyPI.
 
-Youtube link: 
+YouTube link: 
 
 [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
 
