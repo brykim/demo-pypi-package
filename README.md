@@ -2,9 +2,14 @@
 
 This is an example project demonstrating how to publish a python module to PyPI.
 
+Youtube link: 
+
+[Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo)
+
 ## Use Virtualenv to customize Python
 
 [Use Virtualenv to customize Python](https://kb.iu.edu/d/aonm)
+
 Example:
 ```bash
 virtualenv genomicsPython
