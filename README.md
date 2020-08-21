@@ -4,7 +4,14 @@ This is an example project demonstrating how to publish a python module to PyPI.
 
 ## Use Virtualenv to customize Python
 
-[link text](https://kb.iu.edu/d/aonm)
+[Use Virtualenv to customize Python](https://kb.iu.edu/d/aonm)
+Example:
+```bash
+virtualenv genomicsPython
+source genomicsPython/bin/activate
+which python
+deactivate
+```
 
 
 ## Installation
